@@ -1,0 +1,20 @@
+#heads{
+    display: inline-block;
+}
+table{
+    border: 2px solid;
+}
+th{
+    background: lightblue;
+}
+th,tr,td{
+    height: 72px;
+    width: 153px;
+    border: 2px solid;
+    text-align: center;
+    font-weight: bold;
+    font-size: x-large;
+}
+
+
+
